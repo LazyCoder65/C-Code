@@ -10,5 +10,6 @@ int main()
     printf("%d",e);
     char x = 'n';
     printf("%c",x);
+    printf("Closing app");
 
 }
