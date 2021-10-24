@@ -1,8 +1,9 @@
 #include<stdio.h>   // include
-int main()          // main function 
+void main()          // main function 
 {
     printf("Hello world !");
-    printf("Hola From Zap");
+    printf("\nHola From Zap");
+    return 0;
 }
 
 /*
