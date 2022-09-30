@@ -7,5 +7,4 @@ int main(){
     char b[100];
     printf("\nEnter string: ");
     scanf("%s",b);
-    printf("string is %s",b);
 }
