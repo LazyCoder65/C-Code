@@ -5,6 +5,5 @@ int main(){
     scanf("%d",&a);
     printf("%d is value of a",a);
     char b[100];
-    printf("\nEnter string: ");
-    scanf("%s",b);
+   
 }
